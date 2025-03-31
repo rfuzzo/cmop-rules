@@ -1,0 +1,7 @@
+[NOTE]
+	!!! TDO is not supported on game version 2.0 or greater
+[GVER > 2.0 TDO*.archive]
+
+[NOTE]
+	!!! Drone Companions is not supported on game version 2.0 or greater
+[GVER > 2.0 Drone Companions.archive]

@@ -1,2 +1,3 @@
 # cmop-rules
-Rules for https://github.com/rfuzzo/cmop
+
+Rules for <https://github.com/rfuzzo/plox>
